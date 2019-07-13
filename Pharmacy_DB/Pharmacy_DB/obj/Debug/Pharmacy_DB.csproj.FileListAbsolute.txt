@@ -1,0 +1,11 @@
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\bin\Debug\Pharmacy_DB.exe.config
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\bin\Debug\Pharmacy_DB.exe
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\bin\Debug\Pharmacy_DB.pdb
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.csprojAssemblyReference.cache
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.Pharmacy_Depo.resources
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.Properties.Resources.resources
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.csproj.GenerateResource.cache
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.csproj.CoreCompileInputs.cache
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.exe
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.pdb
+C:\Users\Farid\source\repos\Pharmacy_DB\Pharmacy_DB\obj\Debug\Pharmacy_DB.Delete.resources
